@@ -1,6 +1,7 @@
-# alfred-open-with-trae
+# alfred-open-with-trae-cn
 
 ![preview](./preview.jpg)
+
 
 Alfred workflow to open files with trae position.
 
